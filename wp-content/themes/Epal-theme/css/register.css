@@ -1,0 +1,101 @@
+
+
+#register-page , #login-page{
+    padding: 60px 0;
+}
+
+.register-user{
+    max-width: 320px;
+    margin: 0 auto;
+}
+
+.input-field-register{
+    margin-bottom: 10px;
+}
+
+.button-register{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.button-register button{
+    padding: 7px 25px;
+    font-size: 16px;
+}
+
+div#message {
+    color: red;
+}
+
+/*******************************/
+/*************login*************/
+/*******************************/
+
+
+.loginForm{
+    max-width: 320px;
+    margin: 0 auto;
+}
+
+
+
+
+.userinfo {
+    border-bottom: 1px solid #CCC;
+    padding: 0px !important;
+    margin-left: 10px;
+    font-weight:bold;
+}
+.info {
+    padding: 5px 0px 10px 20px !important;
+    background:#FFF;
+}
+.info input, .info select{
+    background:#FFF;
+    width: 210px;
+    padding: 5px;
+}
+.info textarea {
+    background:#FFF;
+    padding: 5px;
+    color: #333 !important;
+    font-style:normal !important;
+}
+.profile-submit {
+    text-align:center;
+    margin-top: 20px;
+}
+.profile-submit input {
+    color: #099;
+}
+.profile-submit a{
+    border:1px solid #ccc;
+    padding: 7px;
+    color: #099;
+    text-decoration:none;
+    font-weight: bold;
+}
+.profile-submit a:hover {
+    color: #FFF;
+    background: #099;
+}
+
+.ava, .tendangnhap {
+    text-align: center;
+}
+.tendangnhap {
+    font-size: 24px;
+    font-weight: bold;
+}
+.screen-reader-text {
+    display: none;
+}
+.media-modal.wp-core-ui {
+    width: 85%;
+    margin: 0 auto;
+}
+.thumbnail {
+    margin-bottom: 0;
+}
+
+
